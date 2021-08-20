@@ -18,7 +18,9 @@ The link to the virtual experience program can be found [here](https://www.thefo
 ## Code and Resources Used
 
 Python version: 3.8.3
+
 Packages: pandas, matplotlib, seaborn
+
 RFM analysis in Python: https://towardsdatascience.com/data-driven-growth-with-python-part-2-customer-segmentation-5c019d150444
 
 ## Data Quality Assessment
@@ -43,6 +45,8 @@ Here are a few insights found throughout the exploratory data analysis process.
 
 ## Data Insights and Presentation
 
-The final dashboard is shown below and can be downloaded in Tasks -> KPMG Virtual Internship - Data Quality Assessment - Task 3.
+The final dashboard is shown below and can be downloaded in Tasks -> KPMG Virtual Internship - Data Insights and Presentation - Task 3.
+
+*Note: You will need to have Tableau Desktop installed in order to view the dashboard and play around with it.*
 
 ![Sprocket Dashboard](Figures/dashboard.png)

@@ -1,4 +1,4 @@
-# KPMG Data Analytics Virtual Experience Program
+# Customer Analytics and Segmentation
 
 ## Project Overview
 
